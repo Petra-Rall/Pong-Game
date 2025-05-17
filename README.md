@@ -14,6 +14,7 @@ It has been optimized for **Linux systems** only.
 You can play the game directly using the **precompiled binary** provided:
 
 ```bash
+chmod +x PongGame
 ./PongGame
 ```
 
