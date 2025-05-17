@@ -1,7 +1,3 @@
-Your description is already pretty clear! Here’s a slightly more polished and professional version of your README snippet:
-
----
-
 ## 🕹️ Pong Game in C++ using Raylib
 
 This is a simple Pong game built using the [Raylib](https://www.raylib.com/) library.
